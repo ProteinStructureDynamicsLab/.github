@@ -5,7 +5,7 @@ It renders as the landing page of https://github.com/ProteinStructureDynamicsLab
 
 # Protein Structure and Dynamics Lab
 
-Telethon Institute of Genetics and Medicine (TIGEM) — Pozzuoli (NA), Italy
+[Telethon Institute of Genetics and Medicine (TIGEM)](https://www.tigem.it/) — Pozzuoli (NA), Italy
 
 We study how protein structure and dynamics determine function, and we use that
 understanding to engineer proteins with improved properties. Our work combines
